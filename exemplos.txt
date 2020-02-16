@@ -1,0 +1,27 @@
+"value" "screen_name" "text" "created_at"
+"1" 1 "eduardopaes_" "VLT com problemas na operação devido ao temporal no Rio https://t.co/bOhLBYnEya" 2019-04-09 10:15:21
+"2" 1 "bandnewsfmrio" "Ainda há pontos de alagamento na Rua Xavier da Silveira, em Copacabana. #ChuvaRJ #BandNewsFM https://t.co/lJKZOleO1C" 2019-04-09 00:57:57
+"3" 1 "bandnewsfmrio" "Além do sentido Centro do Túnel Rebouças. Equipes montaram uma faixa reversível na pista em direção ao Leblon. Há registro de 14 bolsões d'água e 15 quedas de árvore na cidade. #ChuvaRJ #BandNewsFM" 2019-04-09 14:32:45
+"4" 1 "cbnrio" "Jardim Maravilha, em Guaratiba, Zona Oeste do Rio, tem ruas completamente alagadas desde segunda-feira. Moradores disseram que a prefeitura demorou a dar assistência aos atingidos pela chuva. #CBNRio #NoArNaCBN https://t.co/KE37J6V08F" 2019-04-10 11:24:06
+"5" 1 "bandnewsfmrio" "<U+0001F327><U+FE0F>CHUVA <U+0001F327><U+FE0F>| Registros de chuva nos últimos 15 minutos, 1 hora e 24 horas (em mm) https://t.co/HuVacwPsgl" 2019-04-09 15:39:32
+"6" 1 "comlurbcomunica" "#Comlurb atua na retirada de árvore na Rua Barata Ribeiro com Rua Bolívar, em #Copacabana.
+#ComlurbNãoPara #PrefeituraRIO #ChuvaRJ https://t.co/7dYh9nXUmI" 2019-04-09 14:07:47
+"7" 1 "bandnewsfmrio" "Já a Enel informou que as cidades com maior número de casos registrados foram Niterói e São Gonçalo, na Região Metropolitana, Magé, na Baixada Fluminense, e Cabo Frio, na Região do Lagos. #ChuvaRJ #BandNewsFM" 2019-04-09 18:21:59
+"8" 2 "transitorj" "Está quase no fim o trabalho de limpeza do Megulhão Billy Blanco, na Barra da Tijuca, que ficou totalmente alagado com o temporal https://t.co/3BobitZnKY" 2019-04-10 11:41:59
+"9" 2 "bandnewsfmrio" "Registro do ouvinte Luiz Felipe da chuva em Dedoro. #ChuvaRJ #BandNewsFM https://t.co/DU5qq72tKe" 2019-04-08 22:02:42
+"10" 2 "bandnewsfmrio" "Bolsão d'água na rua Oliveira Fausto em Botafogo. #ChuvaRJ #BandNewsFM https://t.co/uG1kG41t54" 2019-04-09 01:01:02
+"11" 2 "cbnrio" "A interrupção no fornecimento de energia atrapalha a identificação das pessoas que morreram no temporal e outros serviços realizados no local. #CBNRio #NoArNaCBN https://t.co/Y8kOkF6cqd" 2019-04-10 14:07:44
+"12" 2 "bandnewsfmrio" "Policiais do Grupamento de Intervenção Tática da UPP Tabajaras resgataram 8 pessoas e 3 cachorros de uma mesma família. Os agentes atenderam aos pedidos de uma criança, que informou que sua família estava dentro de casa cuja parte de baixo da havia desabado. #ChuvaRJ #BandNewsFM https://t.co/S6LrTwN91y" 2019-04-09 17:11:51
+"13" 2 "bandnewsfmrio" "Ainda segundo o órgão, outros cinco imóveis foram interditados preventivamente no Morro do Cavalão. A Secretaria de Assistência Social ofereceu acolhimento nos abrigos do Município para as famílias que solicitaram o serviço. #ChuvaRJ #BandNewsFM" 2019-04-09 19:01:57
+"14" 2 "bandnewsfmrio" "Entregas podem ser feitas na Fundação da Infância Adolescência na rua Voluntários da Pátria 120 Botafogo. Contato pelo e-mail : doacoes.sedsdh@gmail.com. #ChuvaRJ #BandNewsFM" 2019-04-09 17:08:43
+"15" 3 "bandnewsfmrio" "Cidade entrou em estágio de atenção às 18h35. Chuva forte atinge principalmente pontos da Zona Sul e Oeste.
+
+#ChuvaRJ #PrefeituraRIO https://t.co/r74n8QOwaf" 2019-04-08 21:46:13
+"16" 3 "bandnewsfmrio" "Radar do Sistema Alerta Rio não funcionou durante temporal. O aparelho foi atingido por um raio, o que impediu a divulgação da real situação da chuva. #Cidade #BandNewsFM https://t.co/GCrl9MfKwd" 2019-04-10 19:04:57
+"17" 3 "sbtrio" "SUL FLUMINENSE: Temporal atinge Volta Redonda e Barra Mansa. Tempestade pode chegar ao Rio hoje à noite #sbtrio https://t.co/6YpobZp5EO" 2019-04-08 16:07:31
+"18" 3 "transitorj" "Jockey Club Brasileiro debaixo d'água. #ChuvaRJ #BandNewsFM https://t.co/IY0su43u4u" 2019-04-09 12:49:15
+"19" 3 "sbtrio" "PREVISÃO DO TEMPO: a cobertura do céu vai variar de nublado a encoberto, com previsão de chuva fraca a moderada isolada a qualquer momento, podendo ser forte em curtos períodos de tempo. Os ventos estarão fracos a moderados e as temperaturas permanecerão estáveis." 2019-04-10 11:38:00
+"20" 3 "bandnewsfmrio" "<U+27A1> Na quarta-feira (10/04), a previsão é de chuva fraca a moderada a qualquer momento, devido à entrada de umidade do oceano. 
+<U+27A1> A tendência é que na quinta-feira (11/04), não haja ocorrência de chuva no Rio.
+#ChuvaRJ #BandNewsFM" 2019-04-09 20:46:38
+"21" 3 "bandnewsfmrio" "Diante do forte temporal que atinge a cidade, o MetrôRio decidiu extraordinariamente ampliar a operação das Linhas 1, 2 e 4 até 1h, de terça-feira (9). #ChuvaRJ #BandNewsFM" 2019-04-09 02:29:07
